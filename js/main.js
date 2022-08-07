@@ -12,9 +12,7 @@ const numbers = [5, 43, 63, 23, 90];
 // delete numbers[3];
 // delete numbers[4];
 console.log(numbers);
-// Task 2
-// const animals = ['monkey', 'dog', 'cat'];
-// console.log(animals.pop());
+
 // Task 3
 // const numbers = [5, 43, 63, 23, 90];
 
